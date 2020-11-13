@@ -62,8 +62,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
-<img src="images/breakdownschets2" width="375px" alt="breakdownschets sections">
-<img src="images/breakdownschets1" width="375px" alt="breakdownschets detail">
+<img src="images/breakdownschets2.jpg" width="375px" alt="breakdownschets sections">
+<img src="images/breakdownschets1.jpg" width="375px" alt="breakdownschets detail">
 
 
 ## Intake (week 1)
