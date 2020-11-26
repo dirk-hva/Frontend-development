@@ -44,7 +44,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 <img src="images/dubbelartikel.png" width="375px" alt="niet echt semantisch geloof ik">
 Ik weet dat dit beter kan want dit is erg omslachtig alleen ik kon zo niet 123 bedenken hoe ik dat dan zou moeten aanpakken.
- <img src="images/legoferrari.jpg" width="375px" alt="niet gelukt">
+ <img src="images/lastigdeel.png" width="375px" alt="niet gelukt">
  Dit deel wilde ik namaken maar vond ik erg lastig is dus ook niet echt gelukt
 
 ### Agenda voor meeting
