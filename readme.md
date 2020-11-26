@@ -38,11 +38,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Ik vind het nog lastig om ervoor te zorgen dat de dingen in de goede volgorde komen te staan door middel van bijvoorbeeld flexbox. Ook wilde ik graag al een uitklapbare zoekbalk maken maar dat is mij nog niet gelukt. Als dingen mij niet lukte ging ik verder met wat anders zodsat ik toch nog kon doorwerken.-
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+-<img src="images/dubbelartikel.png" width="375px" alt="niet echt semantisch geloof ik">
+Ik weet dat dit beter kan want dit is erg omslachtiog alleen ik kon zo niet 123 bedenken hoe ik dat dan zou moeten aanpakken.
+ <img src="images/lastigdeel.png" width="375px" alt="niet gelukt">
+ Dit deel wilde ik namaken maar vond ik erg lastig is dus ook niet echt gelukt -
 
 ### Agenda voor meeting
 
