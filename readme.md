@@ -6,9 +6,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. -https://www.w3schools.com/howto/howto_css_image_center.asp-
+2. -Robert (docent)-
+3. -Victor (student assistent)-
+4. -Rowin-
 
 
 
@@ -30,7 +31,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+-Pagina die ik heb opgebouwd (pagina1) ziet er goed uit. Loop dus een beetje achter weant moest al n deel van pagina 2 hebben.
+ Heb nuttige vragen gesteld die hebben geholpen nu kan ik weer verder bouwen.-
 
 
 
@@ -59,7 +61,7 @@ Ik weet dat dit beter kan want dit is erg omslachtig alleen ik kon zo niet 123 b
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+-Ik moet mijn hele html verwijderen. Ik denk zelf ook dat dat beter is. -
 
 
 
