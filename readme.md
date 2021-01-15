@@ -7,9 +7,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. -https://www.w3schools.com/howto/howto_css_image_center.asp-
-2. -Robert (docent)-
-3. -Victor (student assistent)-
-4. -Rowin-
+2. -Robert feedback op voortgang en laad meer knop code (docent) -
+3. -Victor feedback op voortgang(student assistent)-
+4. -Rowin hulp met flexbox voor small article-
+5. -https://stackoverflow.com/questions/8572952/border-length-smaller-than-div-width-
+6. -https://stackoverflow.com/questions/25446806/centered-responsive-text-
+7. -https://www.w3schools.com/howto/howto_css_contact_form.asp-
 
 
 
@@ -19,19 +22,20 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+- <img src="images/pagina1.png" width="375px" alt="pagina 1 eindresultaat"> -
+- <img src="images/pagina2.png" width="375px" alt="pagina 2 eindresultaat"> -
 
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+-Eigenlijk weinig progressie gemaakt sinds het laatste voortgangs gesprek.-
 
 
 
 ## Voortgang 2 (week 5)
 
--Pagina die ik heb opgebouwd (pagina1) ziet er goed uit. Loop dus een beetje achter weant moest al n deel van pagina 2 hebben.
+-Pagina die ik heb opgebouwd (pagina1) ziet er goed uit. Loop dus een beetje achter want moest al n deel van pagina 2 hebben.
  Heb nuttige vragen gesteld die hebben geholpen nu kan ik weer verder bouwen.-
 
 
